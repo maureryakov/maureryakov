@@ -47,7 +47,7 @@ def help_command(update, _):
 
 if __name__ == '__main__':
     # Передайте токен вашего бота.
-    updater = Updater("2018217679:AAGgHxhftpKCe6BxWuJEbKLxBkYhmSa1FJU")
+    updater = Updater("YYYYYYYYYYYYYYYYYYYY")
 
     updater.dispatcher.add_handler(CommandHandler('start', start))
     updater.dispatcher.add_handler(CallbackQueryHandler(button))
