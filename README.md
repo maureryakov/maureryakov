@@ -7,6 +7,6 @@
  
 [![введите сюда описание изображения][1]][1]
  
-[1]: https://ibb.co/D4cKM6k
+[1]: https://imgur.com/VdEI3XO
  
 </details>
