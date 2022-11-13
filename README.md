@@ -4,8 +4,8 @@
 3. And run the code in your editor
 <details>
  
-[![введите сюда описание изображения][1]][1]
+[![Look][1]][1]
  
-[1]: [img]https://i.imgur.com/j5dG0ur.jpg[/img]
+[1]: https://i.imgur.com/j5dG0ur.jpg
  
-</details>
+</details>            
