@@ -7,6 +7,6 @@
  
 [![введите сюда описание изображения][1]][1]
  
-[1]: https://imgur.com/a/disxqvG
+[1]: https://i.stack.imgur.com/AKtls.jpg
  
 </details>
