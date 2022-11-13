@@ -7,6 +7,5 @@
  
 [![введите сюда описание изображения][1]][1]
  
-[1]: [Imgur](https://imgur.com/VdEI3XO)
- 
+[1]:  [img]https://i.imgur.com/VdEI3XO.png[/img]
 </details>
