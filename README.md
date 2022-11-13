@@ -7,5 +7,5 @@
  
 [![введите сюда описание изображения][1]][1]
  
-[1]:  [img]https://i.imgur.com/VdEI3XO.png[/img]
+[1]:  <blockquote class="imgur-embed-pub" lang="en" data-id="NmIFj8n"><a href="https://imgur.com/NmIFj8n">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </details>
